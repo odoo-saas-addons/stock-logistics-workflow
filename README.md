@@ -55,7 +55,7 @@ addon | version | maintainers | summary
 [stock_landed_costs_purchase_auto](stock_landed_costs_purchase_auto/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Stock landed costs purchase auto
 [stock_lock_lot](stock_lock_lot/) | 18.0.1.0.0 |  | Stock Lock Lot
 [stock_lot_scrap](stock_lot_scrap/) | 18.0.1.0.1 |  | This module adds a button in Production Lot/Serial Number view form to Scrap all products contained.
-[stock_move_actual_date](stock_move_actual_date/) | 18.0.1.1.0 | <a href='https://github.com/yostashiro'><img src='https://github.com/yostashiro.png' width='32' height='32' style='border-radius:50%;' alt='yostashiro'/></a> <a href='https://github.com/aungkokolin1997'><img src='https://github.com/aungkokolin1997.png' width='32' height='32' style='border-radius:50%;' alt='aungkokolin1997'/></a> | Stock Move Actual Date
+[stock_move_actual_date](stock_move_actual_date/) | 18.0.1.1.1 | <a href='https://github.com/yostashiro'><img src='https://github.com/yostashiro.png' width='32' height='32' style='border-radius:50%;' alt='yostashiro'/></a> <a href='https://github.com/aungkokolin1997'><img src='https://github.com/aungkokolin1997.png' width='32' height='32' style='border-radius:50%;' alt='aungkokolin1997'/></a> | Stock Move Actual Date
 [stock_move_auto_assign_auto_release](stock_move_auto_assign_auto_release/) | 18.0.1.1.0 |  | Auto release moves after auto assign
 [stock_move_backdating](stock_move_backdating/) | 18.0.1.0.0 |  | Stock Move Backdating
 [stock_move_forced_lot](stock_move_forced_lot/) | 18.0.1.0.0 |  | This module allows you to set a lot_id in a procurement to force the stock move generated to only reserve the selected lot.
@@ -118,7 +118,7 @@ addon | version | maintainers | summary
 [stock_picking_restrict_cancel_with_orig_move](stock_picking_restrict_cancel_with_orig_move/) | 18.0.1.0.0 |  | Restrict cancellation of dest moves according to origin.
 [stock_picking_restrict_partial_validation](stock_picking_restrict_partial_validation/) | 18.0.1.0.0 |  | Block validation of transfers that are not fully reserved and processed in full
 [stock_picking_return_empty_package](stock_picking_return_empty_package/) | 18.0.1.0.0 |  | Ensure that only package content is put in stock during a picking return
-[stock_picking_return_lot](stock_picking_return_lot/) | 18.0.1.0.1 |  | Propagate SN/lots from origin picking to return picking.
+[stock_picking_return_lot](stock_picking_return_lot/) | 18.0.1.1.0 |  | Propagate SN/lots from origin picking to return picking.
 [stock_picking_return_restricted_qty](stock_picking_return_restricted_qty/) | 18.0.1.0.0 |  | Restrict the return to delivered quantity
 [stock_picking_sale_order_link](stock_picking_sale_order_link/) | 18.0.1.0.0 |  | Link between picking and sale order
 [stock_picking_send_by_mail](stock_picking_send_by_mail/) | 18.0.1.0.1 |  | Send stock picking by email
